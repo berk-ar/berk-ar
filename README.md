@@ -23,9 +23,6 @@ EN: My interest in technology and software drives me to constantly explore new i
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=berk-ar&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=berk-ar&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk-ar&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berk-ar&theme=default" alt="GitHub Streak" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berk-ar&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
